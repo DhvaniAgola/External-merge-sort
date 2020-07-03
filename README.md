@@ -17,3 +17,9 @@ Memory restriction set to the respective IDE or through Command line.
 ## Output
 
 N sorted numbers in text file.
+
+## Contributors
+
+[Dhvani Agola](https://github.com/DhvaniAgola/)
+
+[Mayank Jariwala](https://github.com/MayankJariwala/)
